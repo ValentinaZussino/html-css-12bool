@@ -1,0 +1,27 @@
+:root {
+    --white: white;
+    --blue: rgb(0, 108, 250);
+}
+.debug {
+    border: 1px solid var(--white);
+    min-height: 50px;
+}
+.pad10 {
+    padding: 10px;
+}
+.blue {
+    background-color: var(--blue);
+    color: var(--white);
+    text-align: center;
+    line-height: 50px;
+}
+.green {
+    background-color: rgb(0, 225, 101);
+    color: var(--white);
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid var(--blue);
+}
+.gap {
+    margin-bottom: 20px;
+}
