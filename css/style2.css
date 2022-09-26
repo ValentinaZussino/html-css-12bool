@@ -44,3 +44,18 @@
 .bg-pink {
     background-color: var(--pink);
 }
+.bg-deepgreen {
+    background-color: var(--deepgreen);
+}
+.bg-lightyellow {
+    background-color: var(--lightyellow);
+}
+.bg-deepblue {
+    background-color: var(--deepblue);
+}
+.bg-lightgreen {
+    background-color: var(--lightgreeen);
+}
+.bg-lightblue {
+    background-color: var(--lightblue);
+}
