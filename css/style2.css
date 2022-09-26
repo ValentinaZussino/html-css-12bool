@@ -35,3 +35,12 @@
 .bg-orange {
     background-color: var(--orange);
 }
+.bg-black {
+    background-color: var(--black);
+}
+.bg-beige {
+    background-color: var(--beige);
+}
+.bg-pink {
+    background-color: var(--pink);
+}
