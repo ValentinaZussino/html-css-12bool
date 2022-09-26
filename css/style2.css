@@ -75,3 +75,15 @@
 .bg-lightbrown {
     background-color: var(--lightbrown);
 }
+.d-none {
+    display: none;
+}
+.parrot-container:hover {
+    transform: scale(0.7);
+}
+.parrot-container:hover .d-none {
+    display: block;
+}
+.parrot-container:hover .d-first {
+    display: none;
+}
