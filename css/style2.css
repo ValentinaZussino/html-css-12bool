@@ -17,6 +17,10 @@
     --lightbrown: rgb(170, 77, 0);
     --camel: rgb(218, 123, 20);
 }
+.parrot-container {
+    max-width: 576px;
+    margin: 0 auto;
+}
 .square {
     min-height: 50px;
 }
