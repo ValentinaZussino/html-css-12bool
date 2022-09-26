@@ -59,3 +59,15 @@
 .bg-lightblue {
     background-color: var(--lightblue);
 }
+.bg-violet {
+    background-color: var(--violet);
+}
+.bg-brown {
+    background-color: var(--brown);
+}
+.bg-camel {
+    background-color: var(--camel);
+}
+.bg-lightbrown {
+    background-color: var(--lightbrown);
+}
